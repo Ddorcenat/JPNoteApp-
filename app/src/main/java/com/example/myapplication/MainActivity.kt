@@ -466,7 +466,7 @@ fun EditJournalScreen(navController: NavController, journalId: Int) {
             modifier = Modifier.fillMaxSize(),
             contentAlignment = Alignment.Center
         ) {
-            Text("Loading entry...", color = Color.White)
+            Text("Loading entry... :)", color = Color.White)
         }
     }
 }
